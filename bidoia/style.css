@@ -10,7 +10,7 @@ body{
     background-color: var(--cor-de-fundo)
     color:var(--branco);
     text-align:center;
-    font-family: 'Chakra Petch';
+    font-family:'Chakra Petch';
 }
 
 h1 span {
